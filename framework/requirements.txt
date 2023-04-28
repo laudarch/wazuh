@@ -40,10 +40,10 @@ google-cloud-storage==1.39.0
 google-crc32c==1.1.2
 google-resumable-media==1.3.1
 grpc-google-iam-v1==0.12.3
-grpcio==1.38.1
+grpcio==1.38.i1
 hiredis==1.1.0
 idna==2.9
-inflection==0.3.1
+inflection==0.4.0
 itsdangerous==2.0.0
 Jinja2==3.0.0
 jmespath==0.9.5
@@ -51,14 +51,14 @@ jsonschema==2.6.0
 libcst==0.3.20
 MarkupSafe==2.1.2
 more-itertools==8.2.0
-multidict==5.1.0
+multidict==5.2.0
 mypy-extensions==0.4.3
 openapi-spec-validator==0.2.6
 packaging==20.9
 pathlib==1.0.1
 protobuf==3.19.6
 proto-plus==1.19.0
-psutil==5.8.0
+psutil==5.9.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
@@ -82,4 +82,4 @@ uvloop==0.16.0
 websocket-client==0.57.0
 Werkzeug==2.2.3
 xmltodict==0.12.0
-yarl==1.6.3
+yarl==1.7.0
